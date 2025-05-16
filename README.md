@@ -121,7 +121,11 @@ React Native
 Acknowledgements & License
 
 Aravind Balasubramaniam
+
 Professor Shijia Pan
+
 Persuasive Autonomous Networks Lab, UC Merced
+
 Masters Student: Dong Yoon Lee
+
 License: MIT © Aravind Balasubramaniam
